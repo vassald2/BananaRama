@@ -1,0 +1,17 @@
+{
+  "manifest_version": 2,
+
+  "name": "Go Bananas!",
+  "description": "It's Time For A Bananarama",
+  "version": "0.1",
+  "icons":{"128":"Images/banana.png"},
+
+  "browser_action": {
+    "default_icon": "Images/banana.png",
+    "default_popup": "GoBananas.html"
+  },
+  "permissions": [
+    "activeTab",
+    "https://ajax.googleapis.com/"
+  ]
+}
