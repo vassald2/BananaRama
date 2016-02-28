@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="jscroll" type="javaScript">
+    <properties>
+      <option name="frameworkName" value="jQuery" />
+      <sourceFilesUrls>
+        <item url="file://$USER_HOME$/Downloads/jscroll-master/jscroll-master/jquery.jscroll.js" />
+        <item url="file://$USER_HOME$/Downloads/jscroll-master/jscroll-master/Gruntfile.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$USER_HOME$/Downloads/jscroll-master/jscroll-master/jquery.jscroll.js" />
+      <root url="file://$USER_HOME$/Downloads/jscroll-master/jscroll-master/Gruntfile.js" />
+      <root url="file://$USER_HOME$/Downloads/jscroll-master/jscroll-master/jquery.jscroll.min.js" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>
